@@ -17,12 +17,11 @@
 
 .link{
   font-weight: 700;
-  text-align: center;
+  padding: 30px 0px 30px 0px;
 }
 
 
 [class*="col-"]{
-  padding: 12px;
   min-height: 7px;
   float: left;
 }
